@@ -12,5 +12,5 @@ Why? Firstly, I truly like it, and I do it on a daily basis. Secondly, I would l
 
 (Another) Why? Well-being is possible in an intelligent-enough environment. All the human problems need to be analyzed in detail, from different perspectives, in order to take better decisions. If we agree that well-being mostly derives from our individual and collective choices... well, let's get started!
 
-Disclaimer: I don't give answers. I make some questions. I show some data. I express my opinion. I make jokes. Hope you guys have some material to think about...
+Disclaimer: I don't give answers. I make some questions. I show some data. I express my opinion. I make jokes. Hope you guys have some material to think about, and maybe stimulate new ideas/discussions/this kind of stuff...
 
