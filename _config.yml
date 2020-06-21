@@ -3,7 +3,7 @@ title: S&Q
 subtitle: 
 email: StatsandQuants@gmail.com
 description: 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/forty" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address:
