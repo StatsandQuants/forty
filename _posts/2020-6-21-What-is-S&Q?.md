@@ -12,9 +12,9 @@ I know: the title is not so interesting. Even not so funny. Because... the inten
 
 *Why?* Firstly, I truly like it, and I do it on a daily basis. Secondly, I would like to talk about all-round complexity.
 
-*(Another) Why? *Well-being is possible in an intelligent-enough environment. All the human problems need to be analyzed in detail, from different perspectives, in order to take better decisions. If we agree that well-being mostly derives from our individual and collective choices... well, let's get started!
+*(Another) Why?* Well-being is possible in an intelligent-enough environment. All the human problems need to be analyzed in detail, from different perspectives, in order to take better decisions. If we agree that well-being mostly derives from our individual and collective choices... well, let's get started!
 
 *Disclaimer*: I don't give answers. I make some questions. I show some data. I express my opinion. I make jokes. Hope you guys have some material to think about, and maybe stimulate new ideas/discussions/this kind of stuff...
 
-*P.S.*: sorry for my / abuse. Get used to it...
+*P.S.* : sorry for my / abuse. I am joking. I am not sorry. Get used to it...
 
