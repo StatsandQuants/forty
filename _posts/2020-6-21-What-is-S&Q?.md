@@ -6,7 +6,7 @@ image: assets/images/man_behind.jpg
 ---
 
 <!-- wp:paragraph -->
-<p>I know: the . Not so funny maybe. But the intentions are serious here: understanding complex phenomena, providing data analysis and quantitative/logical/statistical considerations.</p>
+<p>I know: the title is not so interesting. Even not so funny. Because... the intentions are serious here: understanding complex phenomena, providing data analysis and quantitative/logical/statistical considerations.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
