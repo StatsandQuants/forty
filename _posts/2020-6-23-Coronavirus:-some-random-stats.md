@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Coronavirus:random stats?"
-description: first article
+title: "Coronavirus: random stats"
+description: first serious article
 image: assets/images/man_behind.jpg
 ---
 
